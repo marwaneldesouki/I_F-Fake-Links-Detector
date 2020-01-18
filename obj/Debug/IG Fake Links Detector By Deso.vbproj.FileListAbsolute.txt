@@ -1,0 +1,11 @@
+C:\Users\BestBy\Desktop\projects\IG Fake Links Detector By Deso\IG Fake Links Detector By Deso\bin\Debug\IG Fake Links Detector By Deso.exe.config
+C:\Users\BestBy\Desktop\projects\IG Fake Links Detector By Deso\IG Fake Links Detector By Deso\bin\Debug\IG Fake Links Detector By Deso.exe
+C:\Users\BestBy\Desktop\projects\IG Fake Links Detector By Deso\IG Fake Links Detector By Deso\bin\Debug\IG Fake Links Detector By Deso.pdb
+C:\Users\BestBy\Desktop\projects\IG Fake Links Detector By Deso\IG Fake Links Detector By Deso\bin\Debug\IG Fake Links Detector By Deso.xml
+C:\Users\BestBy\Desktop\projects\IG Fake Links Detector By Deso\IG Fake Links Detector By Deso\obj\Debug\IG Fake Links Detector By Deso.vbprojResolveAssemblyReference.cache
+C:\Users\BestBy\Desktop\projects\IG Fake Links Detector By Deso\IG Fake Links Detector By Deso\obj\Debug\IG_Fake_Links_Detector_By_Deso.Form1.resources
+C:\Users\BestBy\Desktop\projects\IG Fake Links Detector By Deso\IG Fake Links Detector By Deso\obj\Debug\IG_Fake_Links_Detector_By_Deso.Resources.resources
+C:\Users\BestBy\Desktop\projects\IG Fake Links Detector By Deso\IG Fake Links Detector By Deso\obj\Debug\IG Fake Links Detector By Deso.vbproj.GenerateResource.Cache
+C:\Users\BestBy\Desktop\projects\IG Fake Links Detector By Deso\IG Fake Links Detector By Deso\obj\Debug\IG Fake Links Detector By Deso.exe
+C:\Users\BestBy\Desktop\projects\IG Fake Links Detector By Deso\IG Fake Links Detector By Deso\obj\Debug\IG Fake Links Detector By Deso.xml
+C:\Users\BestBy\Desktop\projects\IG Fake Links Detector By Deso\IG Fake Links Detector By Deso\obj\Debug\IG Fake Links Detector By Deso.pdb
